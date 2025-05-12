@@ -12,7 +12,8 @@ public abstract class Vehicle {
         this.cargoCapacity = cargoCapacity;
         this.fuelCapacity = fuelCapacity;
     }
-    protected Vehicle(){
+
+    public Vehicle() {
 
     }
 
