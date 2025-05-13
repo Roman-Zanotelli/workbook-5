@@ -3,8 +3,8 @@ package com.pluralsight;
 import java.time.LocalDate;
 
 public class Vehicle extends Asset{
-    String makeModel;
-    int year, odometer;
+    private String makeModel;
+    private int year, odometer;
 
     public Vehicle(String description, String dateAcquired, double originalCost, String makeModel, int year, int odometer) {
         super(description, dateAcquired, originalCost);

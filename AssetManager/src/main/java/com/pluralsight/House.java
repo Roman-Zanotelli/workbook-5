@@ -1,11 +1,11 @@
 package com.pluralsight;
 
 public class House extends Asset{
-    String address;
-    int condition, squareFoot, lotSize;
+    private String address;
+    private int condition, squareFoot, lotSize;
 
     public House(String description, String dateAcquired, double originalCost, String address, int condition, int squareFoot, int lotSize) {
-        super(description, dateAcquired, originalCost);
+        super(description, dateAcquired, originalCost); //Calls the Asset(String desc, String dateAcquired, double originalCost) constructor
         this.address = address;
         this.condition = condition;
         this.squareFoot = squareFoot;
@@ -53,7 +53,7 @@ public class House extends Asset{
         // lotsize * 0.25
 
         //     if condition==4 ppsf=180, condition==3 ppsf=130, condition==2 ppsf=90, else ppsf=80 THEN multiply ppsf by squareFootage THEN add lotsize value for .25 per square foot
-        return (condition == 4 ? 180: condition == 3 ? 130 : condition == 2 ? 90 : 80) * squareFoot + lotSize * .25;
+        return (condition == 1 ? 180: condition == 2 ? 130 : condition == 3 ? 90 : 80) * squareFoot + lotSize * .25;
     }
 
     @Override
