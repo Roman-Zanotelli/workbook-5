@@ -73,7 +73,7 @@ public class Vehicle extends Asset{
 
         //return final price
         return price;
-//        return (year > 10 ? 1000 : this.originalCost * Math.pow(year <= 3 ? .97: year <= 6? .94 : .92, this.year)) * (makeModel.contains("Honda") || makeModel.contains("Toyota") || odometer <= 100000 ? 1 : .75);
+//        return (age > 10 ? 1000 : this.originalCost * Math.pow(year <= 3 ? .97: year <= 6? .94 : .92, age)) * (makeModel.contains("Honda") || makeModel.contains("Toyota") || odometer <= 100000 ? 1 : .75);
 
     }
 

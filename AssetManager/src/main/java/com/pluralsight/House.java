@@ -52,6 +52,13 @@ public class House extends Asset{
         // calculate total price ppsf * squarfoot
         // lotsize * 0.25
 
+        double rate = switch (condition){
+            case 1:
+                yield 180;
+            case 2:
+
+        };
+
         //     if condition==4 ppsf=180, condition==3 ppsf=130, condition==2 ppsf=90, else ppsf=80 THEN multiply ppsf by squareFootage THEN add lotsize value for .25 per square foot
         return (condition == 1 ? 180: condition == 2 ? 130 : condition == 3 ? 90 : 80) * squareFoot + lotSize * .25;
     }
