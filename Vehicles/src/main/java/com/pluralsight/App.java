@@ -11,5 +11,6 @@ public class App {
         fly.setColor("Green");
         SemiTruck truck = new SemiTruck();
         truck.setCargoCapacity(100);
+
     }
 }
