@@ -1,0 +1,49 @@
+ID,Type,Title,Creator,Genre,Available,Extra1,Extra2
+9781594771392,Book,Condensed Chaos: An Introduction to Chaos Magic,Phil Hine,Esotericism,false,,
+9781644113128,Book,The Occult Book: A Chronological Journey from Ancient Egypt to Modern Magic,John Michael Greer,Esotericism,true,,
+9780062024039,Book,Divergent,Veronica Roth,Young Adult,true,,
+9780345339683,Book,The Hobbit,J.R.R. Tolkien,Fantasy,true,,
+9780316769174,Book,The Catcher in the Rye,J.D. Salinger,Fiction,true,,
+9780061120084,Book,To Kill a Mockingbird,Harper Lee,Fiction,true,,
+9780525559474,Book,Where the Crawdads Sing,Delia Owens,Fiction,true,,
+9781578637541,Book,The Kybalion: A Study of The Hermetic Philosophy of Ancient Egypt and Greece,Three Initiates,Esotericism,true,,
+9780525478812,Book,It Ends with Us,Colleen Hoover,Romance,true,,
+9780062315007,Book,The Alchemist,Paulo Coelho,Philosophy,true,,
+9780134449189,Book,Introduction to Algorithms,Thomas H. Cormen et al.,Programming,true,,
+9780135957059,Book,Clean Code: A Handbook of Agile Software Craftsmanship,Robert C. Martin,Programming,true,,
+9780137081073,Book,Cracking the Coding Interview: 189 Programming Questions and Solutions,Gayle Laakmann McDowell,Programming,true,,
+9781907881728,Book,Advanced Python Programming,Mark Summerfield,Programming,true,,
+9780321765723,Book,The Pragmatic Programmer: Your Journey To Mastery,David Thomas & Andrew Hunt,Programming,true,,
+9780743273565,Book,The Great Gatsby,F. Scott Fitzgerald,Classic,false,,
+9780134759773,Book,Effective Java,Joshua Bloch,Programming,true,,
+9780385490818,Book,The Da Vinci Code,Dan Brown,Thriller,false,,
+9780141439518,Book,Pride and Prejudice,Jane Austen,Romance,true,,
+9780060850524,Book,Brave New World,Aldous Huxley,Science Fiction,true,,
+9780385490813,Book,Angels and Demons,Dan Brown,Thriller,true,,
+9781888766862,Book,Technomancy: The Art of Crafting Magical Things,Etsy Magick,Esotericism,true,,
+9780142424179,Book,The Fault in Our Stars,John Green,Young Adult,false,,
+9780134685997,Book,Refactoring: Improving the Design of Existing Code,Martin Fowler,Programming,true,,
+9780596527347,Book,Head First Design Patterns,Eric Freeman & Elisabeth Robson,Programming,false,,
+9780062457714,Book,The Alchemist,Paulo Coelho,Philosophy,true,,
+9780877289411,Book,Liber Null & Psychonaut: An Introduction to Chaos Magic,Peter J. Carroll,Esotericism,false,,
+9780596806725,Book,Programming Python,Mark Lutz,Programming,false,,
+9781594632273,Book,Educated,Tara Westover,Memoir,true,,
+9781567319777,Book,The Tarot of Marseilles Revealed: The Ancient Secrets of Divination,Yoav Ben-Dov,Esotericism,true,,
+9780451524935,Book,1984,George Orwell,Dystopian,false,,
+9781788478139,Book,The Book of Sitra Achra: A Grimoire of the Dragons of the Other Side,N.A.O.,Esotericism,false,,
+MVE001,Movie,The Matrix,The Wachowski Sisters,Sci-Fi,true,136,
+MVE002,Movie,Doctor Strange,Scott Derrickson,Fantasy,true,115,
+MVE003,Movie,Inception,Christopher Nolan,Sci-Fi,false,148,
+MVE004,Movie,The Craft,Andrew Fleming,Fantasy,true,101,
+MVE005,Movie,Constantine,Francis Lawrence,Thriller,true,121,
+MVE006,Movie,The Social Network,David Fincher,Drama,true,120,
+MVE007,Movie,Her,Spike Jonze,Romance,false,126,
+MVE008,Movie,Ex Machina,Alex Garland,Sci-Fi,true,108,
+MAG001,Magazine,Wired,Conde Nast,Technology,true,May 2025,2025-05-01
+MAG002,Magazine,National Geographic,National Geographic Society,Science,true,June 2025,2025-06-01
+MAG003,Magazine,The Atlantic,The Atlantic Monthly Group,Culture,false,April 2025,2025-04-01
+MAG004,Magazine,IEEE Computer,IEEE Computer Society,Programming,true,Vol. 58 No. 5,2025-05-15
+MAG005,Magazine,Llewellyn's Witches' Calendar,Llewellyn Publications,Esotericism,true,2025 Edition,2025-01-01
+MAG006,Magazine,Strange Attractor Journal,Strange Attractor Press,Esotericism,false,Issue 7,2024-12-01
+MAG007,Magazine,Communications of the ACM,Association for Computing Machinery,Programming,true,May 2025,2025-05-01
+MAG008,Magazine,Scientific American,Springer Nature,Science,true,May 2025,2025-05-01
