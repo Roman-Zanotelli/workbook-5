@@ -36,9 +36,7 @@ public abstract class Asset {
         this.originalCost = originalCost;
     }
 
-    public double getValue(){
-        return originalCost;
-    }
+    public abstract double getValue();
 
     @Override
     public String toString() {
